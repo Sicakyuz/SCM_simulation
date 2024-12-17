@@ -564,6 +564,6 @@ def run_simulation():
 
     else:
         st.info("Please enter your student name and student number in the sidebar to begin.")
-
+    st.sidebar.info("*created by* **Çiğdem Sıcakyüz**, 10/12/2024")
 if __name__ == "__main__":
     run_simulation()
